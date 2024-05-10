@@ -26,7 +26,7 @@ Android studio download link: https://developer.android.com/studio/?gclid=CjwKCA
 Xcode download link: https://developer.apple.com/xcode/
 iOS simulator setup: https://docs.flutter.dev/get-started/install/macos/mobile-ios?tab=download#configure-your-target-ios-device
 Android emulator setup: https://docs.flutter.dev/get-started/install/macos/mobile-android?tab=download#configure-your-target-android-device
-
+ 
 ## Features
 Its basically a todo app with following features:
 - Add task
@@ -38,3 +38,5 @@ Its basically a todo app with following features:
 - MVVM Architecture
 - Local database (Hive) to persist tasks between app launches.
 
+## Android apk download link
+https://files.fm/u/zpsruqe6s6
